@@ -9,6 +9,7 @@ function myClock(){
     h.style.backgroundColor = "black"
     h.style.color = 'white'
     h.style.width = 'fit-content'
+    h.style.max-width = '540px'
     h.style.padding= "100px"
     h.style.borderRadius = '40%'
     h.style.position = 'absolute'
